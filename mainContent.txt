@@ -5,6 +5,9 @@ I. Duyet toan bo
 - ex3: Liet ke hoan vi
 - ex4: Liet ke to hop
 - ex5: Bai toan chia keo Euler
-2. Thuat toan chia de tri
+II. Chia de tri
 - ex1: Merge sort
 - ex2: Tim doan con co tong lon nhat
+- ex3: Tim kiem nhi phan
+- ex4: Nhi phan ham mu
+- ex5: Fibonacci
