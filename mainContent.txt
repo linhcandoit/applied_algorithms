@@ -7,3 +7,4 @@ I. Duyet toan bo
 - ex5: Bai toan chia keo Euler
 2. Thuat toan chia de tri
 - ex1: Merge sort
+- ex2: Tim doan con co tong lon nhat
