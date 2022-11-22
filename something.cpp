@@ -2,10 +2,14 @@
 #include <vector>
 using namespace std;
 
-void test(const vector<int> arr) {
-    arr.push_back(1);
+void test(int i) {
+    if (i == 1)
+        return;
+    else
+        cout << "success";
 }
 
 int main() {
-    vector<int> arr;
+    int i = 2;
+    test(i);
 }
