@@ -1,5 +1,8 @@
+I. Duyet toan bo
+1. Thuat toan quay lui
 - ex1: In xau nhi phan do dai n
 - ex2: In xau nhi phan do dai n sao cho 2 bit 0 khong o canh nhau
 - ex3: Liet ke hoan vi
 - ex4: Liet ke to hop
 - ex5: Bai toan chia keo Euler
+2. Thuat toan nhanh can
